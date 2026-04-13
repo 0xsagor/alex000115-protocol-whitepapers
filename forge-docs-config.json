@@ -1,0 +1,6 @@
+{
+  "outputDir": "./dist/whitepapers",
+  "theme": "cyberpunk-professional",
+  "includeDiagrams": true,
+  "generateLatex": true
+}
