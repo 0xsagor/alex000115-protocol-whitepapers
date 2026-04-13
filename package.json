@@ -1,0 +1,9 @@
+{
+  "name": "protocol-whitepapers",
+  "version": "1.0.0",
+  "description": "Technical documentation and lightpapers for the ecosystem",
+  "devDependencies": {
+    "mermaid-cli": "^10.0.0",
+    "markdown-pdf": "^11.0.0"
+  }
+}
